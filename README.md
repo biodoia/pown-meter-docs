@@ -14,6 +14,16 @@
 
 ---
 
+## Status: ⏸️ PROGETTO SOSPESO
+
+**Ultimo aggiornamento**: Dicembre 2024
+
+Il progetto è attualmente **sospeso** in fase di pianificazione.
+Tutta la documentazione e il design sono completati.
+Vedi [ROADMAP.md](./ROADMAP.md) per dettagli.
+
+---
+
 ## Cos'è POWN METER?
 
 **POWN METER** è una webapp per chi dedica tempo a sputtanare gli imbecilli che li contattano online.
@@ -80,15 +90,26 @@ Estetica **cyberpunk degradata / punk anarchico**:
 
 ---
 
-## Roadmap
+## Documentazione
 
-Vedi [ROADMAP.md](./ROADMAP.md) per lo stato di sviluppo.
+### Per Utenti
+- [Quick Start](./wiki/QUICK-START.md) - Setup in 2 minuti
+- [Connettere Facebook](./wiki/FACEBOOK-SETUP.md) - Guida autorizzazione
+- [Gamification](./wiki/GAMIFICATION.md) - Punti, livelli, achievements
+- [FAQ](./wiki/FAQ.md) - Domande frequenti
+
+### Sviluppo
+- [ROADMAP.md](./ROADMAP.md) - Stato di sviluppo
+- [Feature Request](../../issues/new?template=feature_request.md) - Proponi feature
+- [Bug Report](../../issues/new?template=bug_report.md) - Segnala problemi
 
 ---
 
 ## Vuoi una Feature?
 
 Apri una [Issue](../../issues/new?template=feature_request.md) con la tua idea!
+
+Le feature più votate dalla community hanno priorità.
 
 ---
 
@@ -104,4 +125,4 @@ MIT - Fanne quello che vuoi.
 
 ---
 
-*Made with 💀 and too much coffee*
+*Made with 💀 and mass amounts of caffeine*
